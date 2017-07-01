@@ -1,0 +1,41 @@
+/** table, tr {
+    border-style: solid;
+} **/
+            
+th {
+    text-align: center;
+    /* border: 3px solid black; */
+} 
+
+td {
+    text-align: center;
+    /* border: 3px solid black; */
+    font-style: italic;
+    /* border-style: solid; */
+}
+
+tbody {
+    background-color: fuchsia;
+}
+
+thead {
+    background-color: red;
+}
+
+li {
+    font-style: italic ;
+}
+
+a {
+    font-family: Script;
+    font-size: xx-large;
+	text-decoration: none;
+}
+
+a:hover {
+    font-family: Script;
+    font-size: xx-large;
+	text-decoration: underline;
+	color: Green;
+    background-color: greenyellow;
+}
